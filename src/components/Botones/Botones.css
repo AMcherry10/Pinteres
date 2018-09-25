@@ -1,0 +1,134 @@
+.buttons{
+  margin-left: 70px;
+  margin-top: 20px;
+}
+
+.paisajes{
+  border-radius: 10px;
+  color: white !important;
+  height: 40px;
+  background-color: rgb(173, 116, 226);
+  border: 0ch;
+  cursor: pointer;
+}
+
+.comida{
+  border-radius: 10px;
+  color: white;
+  height: 40px;
+  background-color: #DAE36E;
+  border: 0ch;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.bodas{
+  border-radius: 10px;
+  color: white;
+  height: 40px;
+  background-color: #7A7D82;
+  border: 0ch;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.idiomas{
+  border-radius: 10px;
+  color: white;
+  height: 40px;
+  background-color: #99CAD9;
+  border: 0ch;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.reposteria{
+  border-radius: 10px;
+  color: white;
+  height: 40px;
+  background-color: #E99D8B;
+  border: 0ch;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.decoracion{
+  border-radius: 10px;
+  color: white;
+  height: 40px;
+  background-color: #CC1F25;
+  border: 0ch;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.tecnologia{
+  border-radius: 10px;
+  color: white;
+  height: 40px;
+  background-color: #AB91BE;
+  border: 0ch;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.moda{
+  border-radius: 10px;
+  color: white;
+  height: 40px;
+  background-color: #564511c0;
+  border: 0ch;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.populares{
+  border-radius: 10px;
+  color: white;
+  height: 40px;
+  background-color: #8D625B;
+  border: 0ch;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.regalos{
+  border-radius: 10px;
+  color: white;
+  height: 40px;
+  background-color: #E77F64;
+  border: 0ch;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.arquitectura{
+  border-radius: 10px;
+  color: white;
+  height: 40px;
+  background-color: #3B9D90;
+  border: 0ch;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.logos{
+  border-radius: 10px;
+  color: white;
+  height: 40px;
+  background-color: #C18E8A;
+  border: 0ch;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #e0c3fc !important;
+  border-color: transparent !important;
+}
+
+.btn-primary:focus{
+  outline: 0;
+    box-shadow: 0 0 0 0.2rem transparent !important;
+}
