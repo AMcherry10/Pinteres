@@ -1,0 +1,66 @@
+#iconoPinterest{
+  color: brown;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-left: -80px;
+}
+
+#buscar{
+  margin-top: 20px;
+  margin-left: 15px;
+}
+
+#inputSearch{
+  background-color: rgb(238, 236, 236);
+  border-radius: 5px;
+  margin-left: 0px;
+  margin-top: 10px;
+  border: rgb(238, 236, 236);  
+}
+
+#inputSearch:focus{
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem transparent !important;
+}
+
+#opciones{
+  background-color: rgb(238, 236, 236);
+  border-radius: 5px;
+  margin-top: 10px;
+  border: rgb(238, 236, 236);
+  margin-left: -15px;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+#opciones:focus{
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem transparent !important;
+}
+
+#iconoUser{  
+  font-size: 20px;
+  color: #a3a0a0;   
+  float: right;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+#barras{  
+  color: rgb(146, 143, 143);
+  font-size: 25px;  
+  float: right;
+  margin-left: 25px;
+  margin-top: 15px;
+}
+
+#msn{  
+  color: rgb(163, 160, 160);
+  font-size: 25px; 
+  float: right;
+  margin-left: 23px;
+  margin-top: 15px;
+}
+
