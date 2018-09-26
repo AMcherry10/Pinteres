@@ -1,0 +1,5 @@
+.Imagenes{
+  column-count: 5;
+  column-gap: 10px;
+  padding: 10px;
+}

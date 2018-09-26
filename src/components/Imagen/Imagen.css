@@ -1,0 +1,15 @@
+.Imagen-img{
+  width: 100%;
+  height: auto;
+}
+
+.Imagen-content{
+  display: inline-flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  background-color: lightgray;
+  border-radius: 5px;
+}
+
