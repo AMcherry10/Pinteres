@@ -28,10 +28,6 @@ class App extends Component {
     };
   }
 
-  componentDidMount() {
-    this.actualizarBusqueda()
-  }
-
   cargarMasImagenes = () => {
     let pageNew = this.state.page + 1
     let imagenesAntiguas = this.state.resultadoBusqueda
@@ -44,6 +40,10 @@ class App extends Component {
           cargando: false,
         })
       })
+  }
+
+  componentDidMount() {
+    this.actualizarBusqueda()
   }
 
   actualizarBusqueda(nuevaBusqueda = "") { /* esto es para q si o si nuevabusqueda tenga algo y se pueda ocupar replace, sino, lo toma como nulo y tira error */

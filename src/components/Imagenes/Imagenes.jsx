@@ -5,7 +5,7 @@ import "./Imagenes.css";
 class Imagenes extends Component{
   dibujarImagenes(){
     return this.props.dataImagenes.map((infoFetch)=>{
-      return <Imagen img={infoFetch.webformatURL} titulo={"Pixabay"} likes={infoFetch.likes} user={infoFetch.user}/>
+      return <Imagen img={infoFetch.webformatURL} titulo={"Pixabay"} likes={infoFetch.likes} user={infoFetch.user} />
     })
   }
 
