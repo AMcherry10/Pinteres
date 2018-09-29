@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Barra Component render correcto 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-12 col-xs-12 col-md-12 col-lg-12 col-xl-12"
+    >
+      <div
+        className="row"
+      >
+        <i
+          className="fab fa-pinterest col-1"
+          id="iconoPinterest"
+        />
+        <input
+          className="col-8"
+          id="inputSearch"
+          onKeyPress={[Function]}
+          placeholder="Buscar"
+          type="text"
+        />
+        <select
+          className="col-2"
+          id="opciones"
+        >
+          <option
+            value="Todos los pines"
+          >
+            Todos los pines
+          </option>
+        </select>
+        <i
+          className="fas fa-user-circle col-"
+          id="iconoUser"
+        >
+          Noelia
+        </i>
+        <i
+          className="fas fa-bars"
+          id="barras"
+        />
+        <i
+          className="fas fa-comment-dots"
+          id="msn"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
