@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Imagen Component render correcto 1`] = `
+<div
+  className="Imagen-content"
+>
+  <img
+    alt="foto"
+    className="Imagen-img"
+    onClick={[Function]}
+    src={undefined}
+  />
+  <h5 />
+  <h6 />
+  <p />
+</div>
+`;

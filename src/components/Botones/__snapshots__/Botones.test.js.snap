@@ -1,0 +1,122 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Botones Component render correcto 1`] = `
+<div>
+  <div
+    className="col-12 col-xs-12 col-md-12 col-lg-12 col-xl-12"
+  >
+    <div
+      className="buttons"
+    >
+      <a
+        className="btn btn-primary paisajes"
+        href="#"
+        name="Paisaje"
+        onClick={[Function]}
+        role="button"
+      >
+        Paisajes
+      </a>
+      <a
+        className="btn btn-primary comida"
+        href="#"
+        name="Comida"
+        onClick={[Function]}
+        role="button"
+      >
+        Comida
+      </a>
+      <a
+        className="btn btn-primary bodas"
+        href="#"
+        name="Bodas"
+        onClick={[Function]}
+        role="button"
+      >
+        Bodas
+      </a>
+      <a
+        className="btn btn-primary idiomas"
+        href="#"
+        name="Idiomas"
+        onClick={[Function]}
+        role="button"
+      >
+        Idiomas
+      </a>
+      <a
+        className="btn btn-primary reposteria"
+        href="#"
+        name="Reposteria"
+        onClick={[Function]}
+        role="button"
+      >
+        Repostería
+      </a>
+      <a
+        className="btn btn-primary decoracion"
+        href="#"
+        name="Decoracion"
+        onClick={[Function]}
+        role="button"
+      >
+        Decoración
+      </a>
+      <a
+        className="btn btn-primary tecnologia"
+        href="#"
+        name="Tecnologia"
+        onClick={[Function]}
+        role="button"
+      >
+        Tecnología
+      </a>
+      <a
+        className="btn btn-primary moda"
+        href="#"
+        name="Moda"
+        onClick={[Function]}
+        role="button"
+      >
+        Moda
+      </a>
+      <a
+        className="btn btn-primary populares"
+        href="#"
+        name="Populares"
+        onClick={[Function]}
+        role="button"
+      >
+        Populares
+      </a>
+      <a
+        className="btn btn-primary regalos"
+        href="#"
+        name="Regalos"
+        onClick={[Function]}
+        role="button"
+      >
+        Regalos
+      </a>
+      <a
+        className="btn btn-primary arquitectura"
+        href="#"
+        name="Arquitectura"
+        onClick={[Function]}
+        role="button"
+      >
+        Arquitectura
+      </a>
+      <a
+        className="btn btn-primary logos"
+        href="#"
+        name="Logos"
+        onClick={[Function]}
+        role="button"
+      >
+        Logos
+      </a>
+    </div>
+  </div>
+</div>
+`;
