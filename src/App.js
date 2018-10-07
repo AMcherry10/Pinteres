@@ -20,8 +20,8 @@ class App extends Component {
         return
       }
       if (
-        window.innerHeight + document.documentElement.scrollTop
-        === document.documentElement.offsetHeight
+        window.innerHeight + document.documentElement.scrollTop /* obtiene alto del elemento raiz en este caso html */
+        === document.documentElement.offsetHeight /* mide alto de pagina */
       ) {
         this.cargarMasImagenes();
       }
