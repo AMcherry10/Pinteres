@@ -9,6 +9,8 @@ aparecerán imágenes relacionadas con tu búsqueda, al clickear alguna imagen e
 También puedes hacer una búsqueda de imágenes con los botones, los que ya tienen determinada la temática
 de búsqueda.
 
+![imagen](public/pinterest.png)
+
 ## Demo del proyecto
 
 [Pinterest-React](https://noeliasabando.github.io/Pinterest-React/)
