@@ -14,3 +14,7 @@ de búsqueda.
 ## Demo del proyecto
 
 [Pinterest-React](https://noeliasabando.github.io/Pinterest-React/)
+
+
+## Proyecto desarrollado para
+[Laboratoria](http://www.laboratoria.la/)
