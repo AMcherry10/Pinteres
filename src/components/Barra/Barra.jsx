@@ -19,9 +19,9 @@ class Barra extends Component {
             <select id="opciones" className="col-2">
               <option value="Todos los pines">Todos los pines</option>
             </select>
-            <i id="iconoUser" className="fas fa-user-circle col-">Noelia</i>
-            <i id="barras" className="fas fa-bars"></i>
-            <i id="msn" className="fas fa-comment-dots"></i>
+            <i id="iconoUser" className="fas fa-user-circle icono">Noelia</i>
+            <i id="barras" className="fas fa-bars icono"></i>
+            <i id="msn" className="fas fa-comment-dots icono"></i>
             </div>
           </div>
         </div>
