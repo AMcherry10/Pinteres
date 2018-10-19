@@ -4,10 +4,46 @@
 }
 
 @media (max-width: 700px) {
- .buttons{
+ .paisajes{
    display: none;
  }
+ .comida{
+  display: none;
 }
+.bodas{
+  display: none;
+}
+.idiomas{
+  display: none;
+}
+.reposteria{
+  display: none;
+}
+.decoracion{
+  display: none;
+}
+}
+
+@media (max-width: 390px) {
+  .tecnologia{
+    display: none;
+  }
+  .moda{
+   display: none;
+ }
+ .populares{
+   display: none;
+ }
+ .regalos{
+   display: none;
+ }
+ .arquitectura{
+  display: none;
+}
+.logos{
+  display: none;
+}
+ }
 
 .paisajes{
   border-radius: 10px;

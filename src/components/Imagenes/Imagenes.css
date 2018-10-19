@@ -3,3 +3,27 @@
   column-gap: 10px;
   padding: 10px;
 }
+
+@media (max-width: 700px) {
+  .Imagenes{
+    column-count: 3;
+    column-gap: 10px;
+    padding: 10px;
+  }
+}
+
+@media (max-width: 500px) {
+  .Imagenes{
+    column-count: 2;
+    column-gap: 10px;
+    padding: 10px;
+  }
+}
+
+@media (max-width: 400px) {
+  .Imagenes{
+    column-count: 1;
+    column-gap: 10px;
+    padding: 10px;
+  }
+}
